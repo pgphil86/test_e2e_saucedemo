@@ -14,7 +14,7 @@ test_e2e_saucedemo - автоматический тест сайта 'https://w
 
 Клонировать репозиторий и перейти в него в командной строке:
 ```
-
+git@github.com:pgphil86/test_e2e_saucedemo.git
 ```
 ```
 cd test_e2e_saucedemo
@@ -39,7 +39,7 @@ python3 test_e2e_saucedemo.py
 ### Автор проекта:
 Павел Филиппов
 
-[Вверх]()
+[Вверх](https://github.com/pgphil86/test_e2e_saucedemo?tab=readme-ov-file#тестовое-задание---test_e2e_saucedemo)
 
 # The test task is "test_e2e_saucedemo".
 
@@ -57,7 +57,7 @@ Authorization and completion of the purchase are checked.
 
 Clone the repository and go to it on the command line:
 ```
-
+git@github.com:pgphil86/test_e2e_saucedemo.git
 ```
 ```
 cd test_e2e_saucedemo
@@ -82,4 +82,4 @@ python3 test_e2e_saucedemo.py
 ### Author of the project:
 Pavel Filippov
 
-[Up]()
+[Up](https://github.com/pgphil86/test_e2e_saucedemo?tab=readme-ov-file#тестовое-задание---test_e2e_saucedemo)
